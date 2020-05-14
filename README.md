@@ -40,5 +40,4 @@ free. It's pretty neat!
 
 * [Pronouncing tutorial](pronouncing-tutorial.ipynb)
 * [Pincelate tutorial](pincelate-tutorial-and-cookbook.ipynb)
-* [Corpus-driven approaches](corpus-driven-tutorials.ipynb)
-
+* [Corpus-driven approaches](corpus-driven-approaches.ipynb)
