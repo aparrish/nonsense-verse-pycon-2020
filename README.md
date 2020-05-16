@@ -29,15 +29,9 @@ quickstart guide, and then [my short tutorial
 notebook](https://github.com/aparrish/rwet/blob/master/jupyter-notebook-tutorial.ipynb)
 for basic commands and workflow tips.
 
-If the options above don't work for you, you can also [launch a copy of this
-repository on
-Binder](https://mybinder.org/v2/gh/aparrish/nonsense-verse-pycon-2020/master).
-The Binder service will allocate a small temporary computer for you, with this
-code pre-installed, that you can run for a while through your web browser for
-free. It's pretty neat!
-
 ## Included notebooks
 
 * [Pronouncing tutorial](pronouncing-tutorial.ipynb)
 * [Pincelate tutorial](pincelate-tutorial-and-cookbook.ipynb)
 * [Corpus-driven approaches](corpus-driven-approaches.ipynb)
+
